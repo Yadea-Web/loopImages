@@ -5,6 +5,7 @@
 
 * Endless Loop Images
 * Based on react-native
+* Android has no test
 
 
 ### Install
