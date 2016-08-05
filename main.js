@@ -13,7 +13,7 @@ import {
   Dimensions,
 } from 'react-native';
 
-import LoopImages from './LoopImages.js';
+var LoopImages = require('react-native-loop-image');
 
 export default class LoopImageProject extends Component {
   render() {
