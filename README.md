@@ -7,6 +7,10 @@
 * Based on react-native
 * Android has no test
 
+### Demo
+
+![](https://github.com/miss-yadi/loopImages/blob/master/loopImage.gif)
+
 
 ### Install
 
